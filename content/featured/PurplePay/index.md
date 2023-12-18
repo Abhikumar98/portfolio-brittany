@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Purple Pay'
-cover: './halcyon.png'
+cover: './demo.png'
 github: ''
 external: 'https://purplepay.app'
 tech:
