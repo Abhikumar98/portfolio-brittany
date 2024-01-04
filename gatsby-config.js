@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Abhishek Kumar',
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+      'Hey there 👋, I\'m Abhishek Kumar, a Fullstack Web Developer specializing in Frontend and making my way through the internet by shipping products and scaling ideas.',
     siteUrl: 'https://abhishekkumar.dev', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@abhikumar_98',
