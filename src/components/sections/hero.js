@@ -65,7 +65,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm a Fullstack web developer with 3+ years of experience, currently located in Bangalore,
+        I'm a Fullstack Web Developer with 4 years of experience, currently located in Bangalore,
         India. Exploring blockchain and building products that improves web3 ecosystem.
       </p>
     </>
